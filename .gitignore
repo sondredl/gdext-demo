@@ -12,3 +12,4 @@ zig-out/
 # Added by cargo
 
 /target
+*.uid
